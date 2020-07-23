@@ -1,2 +1,2 @@
 # videomaker
-Projeto Open Source para fazer Vídeos Automatizados - Deschamps
+Projeto Open Source para fazer Vídeos Automatizados - Teste
